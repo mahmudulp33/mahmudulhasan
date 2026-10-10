@@ -40,7 +40,7 @@ footer {text-align:center; padding:20px; color:#666;}
 <nav class="navbar">
     <a href="index.html">Home</a>
     <a href="Professional-Experiences.html">Professional Experiences & Skills</a>
-    <a href="Trainings & Certificates.html">Training & Certificates</a>
+    <a href="Trainings & Certificates.html">Trainings & Certificates</a>
     <a href="Projects.html">Projects</a>
     
 </nav>
